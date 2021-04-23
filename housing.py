@@ -1,3 +1,8 @@
+# A simple model predict output based on the defined relatioship as follows.
+# Cost of house = 50$ + number of bedrooms. For example, one bedroom apartment would cost $100, 2 bedroom apartment would cost $150 and so on.
+
+
+
 import tensorflow as tf
 import numpy as np
 from tensorflow import keras
